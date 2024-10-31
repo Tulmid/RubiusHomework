@@ -1,0 +1,7 @@
+C:\Users\gipta\source\repos\ConsoleApp2_DZ_1\ConsoleApp2_DZ_1\obj\Debug\ConsoleApp2_DZ_1.csproj.AssemblyReference.cache
+C:\Users\gipta\source\repos\ConsoleApp2_DZ_1\ConsoleApp2_DZ_1\obj\Debug\ConsoleApp2_DZ_1.csproj.CoreCompileInputs.cache
+C:\Users\gipta\source\repos\ConsoleApp2_DZ_1\ConsoleApp2_DZ_1\bin\Debug\ConsoleApp2_DZ_1.exe.config
+C:\Users\gipta\source\repos\ConsoleApp2_DZ_1\ConsoleApp2_DZ_1\bin\Debug\ConsoleApp2_DZ_1.exe
+C:\Users\gipta\source\repos\ConsoleApp2_DZ_1\ConsoleApp2_DZ_1\bin\Debug\ConsoleApp2_DZ_1.pdb
+C:\Users\gipta\source\repos\ConsoleApp2_DZ_1\ConsoleApp2_DZ_1\obj\Debug\ConsoleApp2_DZ_1.exe
+C:\Users\gipta\source\repos\ConsoleApp2_DZ_1\ConsoleApp2_DZ_1\obj\Debug\ConsoleApp2_DZ_1.pdb
